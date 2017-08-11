@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pp_color_text_base_inverse">#fff</color>
+    <color name="pp_color_text_paragraph">#999</color>
+    <color name="pp_font_color_title_xl">#505050</color>
+    <color name="pp_color_text_subtitle">#999</color>
+
+    <color name="pp_brand_primary">#2f6bd6</color>
+
+    <color name="pp_button_color_base">#25c384</color>
+    <color name="pp_button_color_pressed">#09b076</color>
+    <color name="pp_button_color_disabled">#6625c384</color>
+
+    <color name="pp_fill_base">#fff</color>
+    <color name="pp_fill_base_pressed">#eee</color>
+    <color name="pp_fill_body">#f4f4f4</color>
+
+    <color name="pp_border_color_base">#ccc</color>
+
+    <color name="pp_dialog_mask">#80000000</color>
+
+</resources>

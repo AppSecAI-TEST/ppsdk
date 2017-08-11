@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pp_font_size_xl">18sp</dimen>
+    <dimen name="pp_font_size_l">16sp</dimen>
+    <dimen name="pp_font_size_m">14sp</dimen>
+    <dimen name="pp_font_size_s">12sp</dimen>
+    
+    <dimen name="pp_space1">4dp</dimen>
+
+    <dimen name="pp_button_min_width">120dp</dimen>
+
+    <dimen name="pp_font_lint_height_xl">2dp</dimen>
+
+    <dimen name="pp_radius_m">3dp</dimen>
+</resources>
